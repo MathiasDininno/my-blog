@@ -1,0 +1,10 @@
+:root{
+    --main-bg-color: rgba(0, 0, 0, 0.932);
+    --main-back-color: rgba(32, 32, 32, 0.801);
+    --main-text-color: rgba(253, 228, 228, 0.911);
+}
+
+.nav{
+    background-color: var(--main-back-color);
+    margin: 0% 1%;
+}
