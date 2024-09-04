@@ -3,6 +3,7 @@ import Home from './Screens/Home';
 import Contact from './Screens/Contact';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NavBar from './Components/NavBar';
+import Article from './Article/Article';
 
 function Nav() {
   return (
@@ -14,6 +15,7 @@ function Nav() {
           <Route path='/about-us' element={<Contact />} />
         </Routes>
       </div>
+      <Article />
     </Router>
   );
 }
