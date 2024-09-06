@@ -4,7 +4,7 @@ import './Article.css'
 const Article = () => {
     return (
         <div className='div-article'>
-            <h1 className='About-me'>About me</h1>
+            <h1 className='about-me'>About me</h1>
             <p className='paragraph'>Hello and welcome,
                 I’m Mathias Dininno, a front-end developer specializing in creating impactful web experiences.
                 I offer customized solutions in interface development, performance optimization,
