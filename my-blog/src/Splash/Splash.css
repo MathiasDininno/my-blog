@@ -1,0 +1,11 @@
+/* Estilos para la pantalla de bienvenida */
+.splash-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    font-family: Arial, sans-serif;
+    flex-direction: column;
+  }
